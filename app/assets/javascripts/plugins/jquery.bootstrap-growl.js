@@ -65,9 +65,9 @@
     type: "info",
     offset: {
       from: "top",
-      amount: 20
+      amount: 200
     },
-    align: "right",
+    align: "center",
     width: 250,
     delay: 4000,
     allow_dismiss: true,
